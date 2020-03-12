@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="css" />
+            <item index="1" class="java.lang.String" itemvalue="blog:post_list_by_tag" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="services.views.ServicesList" />
+          <option value="resident.urls.ResidentList" />
+          <option value="resident.urls.*" />
+          <option value="resident.views.ResidentList" />
+          <option value="sections.views.IndexView" />
+          <option value="sections.views.SectionView" />
+          <option value="sections.views.ArticleView" />
+          <option value="sections.views.SearchView" />
+          <option value="common.views.BaseView" />
+          <option value="information.urls.InfoBase" />
+          <option value="information.views.InfoBase" />
+          <option value="mediateka.views.MediaTek" />
+          <option value="services.views.ServiceList" />
+          <option value="mediateka.views.CalendarAjax" />
+          <option value="calendar_of_events.urls.post_events" />
+          <option value="calendar_of_events.urls.get_event" />
+          <option value="calendar_of_events.views.CalendarView" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
